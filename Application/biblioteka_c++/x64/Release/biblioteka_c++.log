@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library C:\Users\hamer\Desktop\JAProj\GUI — kopia\x64\Release\biblioteka_c++.lib and object C:\Users\hamer\Desktop\JAProj\GUI — kopia\x64\Release\biblioteka_c++.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  biblioteka_c++.vcxproj -> C:\Users\hamer\Desktop\JAProj\GUI — kopia\x64\Release\biblioteka_c++.dll

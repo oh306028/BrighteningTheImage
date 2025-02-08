@@ -1,0 +1,4 @@
+﻿  Assembling assembler.asm...
+     Creating library C:\Users\hamer\Desktop\JAProj\Application\x64\Debug\assembly.lib and object C:\Users\hamer\Desktop\JAProj\Application\x64\Debug\assembly.exp
+assembly.exp : warning LNK4070: /OUT:assembler.dll directive in .EXP differs from output filename 'C:\Users\hamer\Desktop\JAProj\Application\x64\Debug\assembly.dll'; ignoring directive
+  assembly.vcxproj -> C:\Users\hamer\Desktop\JAProj\Application\x64\Debug\assembly.dll

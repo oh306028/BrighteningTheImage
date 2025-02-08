@@ -1,0 +1,30 @@
+﻿  Assembling assembler.asm...
+assembler.asm(22): error A2013: .MODEL must precede this directive
+assembler.asm(23): error A2034: must be in segment block : ReverseColorsAsm
+assembler.asm(24): error A2034: must be in segment block
+assembler.asm(25): error A2034: must be in segment block
+assembler.asm(26): error A2034: must be in segment block
+assembler.asm(27): error A2034: must be in segment block
+assembler.asm(28): error A2034: must be in segment block
+assembler.asm(30): error A2034: must be in segment block
+assembler.asm(31): error A2034: must be in segment block
+assembler.asm(32): error A2034: must be in segment block
+assembler.asm(33): error A2034: must be in segment block
+assembler.asm(35): error A2034: must be in segment block
+assembler.asm(36): error A2034: must be in segment block
+assembler.asm(37): error A2034: must be in segment block
+assembler.asm(38): error A2034: must be in segment block
+assembler.asm(39): error A2034: must be in segment block
+assembler.asm(42): error A2034: must be in segment block
+assembler.asm(45): error A2034: must be in segment block
+assembler.asm(46): error A2034: must be in segment block
+assembler.asm(49): error A2034: must be in segment block
+assembler.asm(51): error A2034: must be in segment block
+assembler.asm(52): error A2034: must be in segment block
+assembler.asm(54): error A2034: must be in segment block
+assembler.asm(56): error A2034: must be in segment block
+assembler.asm(57): error A2034: must be in segment block
+assembler.asm(59): error A2034: must be in segment block
+assembler.asm(60): error A2034: must be in segment block
+assembler.asm(62): fatal error A1010: unmatched block nesting : ReverseColorsAsm
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: Polecenie ml.exe /c /nologo /Zi /Fo"Release\assembler.obj" /W3 /errorReport:prompt  /Taassembler.asm zostało zakończone; kod błędu: 1.
